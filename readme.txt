@@ -1,2 +1,2 @@
 This is a first readme file.
-That is a txt file.
+That is a second txt file.
